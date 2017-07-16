@@ -1,0 +1,23 @@
+{
+  "name": "binary-vs-linear-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/island-fox-2017/binary-vs-linear-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/island-fox-2017/binary-vs-linear-search/issues"
+  },
+  "homepage": "https://github.com/island-fox-2017/binary-vs-linear-search#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "lodash": "^4.17.4"
+  }
+}
